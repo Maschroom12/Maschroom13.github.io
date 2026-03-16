@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Styles2.css">
+</head>
+<body>
+ <header>
+    <p class="fixed-txt"><a href="Index.html">Steam Game Randomizer</a></p>
+    <div class="button fixed-btn"><a href="Page3.html">Try out now!</a></div>
+ </header>
+ <main>
+    <div class="grid">
+        <div class="element">
+            <h3 class="game-name">Balatro</h3>
+            <p>Покерная игра-«рогалик». Balatro — увлекательная игра с построением колод, где можно использовать нестандартные покерные комбинации, находить джокеров в решающие моменты и запускать забойные, возмутительно мощные комбо.</p>
+            <div class="btn"><a href="https://store.steampowered.com/app/2379780/Balatro/">Buy the Game now!</a></div>
+        </div>
+        <div class="element">
+            <h3 class="game-name">Portal</h3>
+            <p>Portal, действие которого происходит в загадочных лабораториях компании Aperture, был назван одной из самых новаторских игр современности и предлагает множество часов головоломки.</p>
+            <div class="btn"><a href="https://store.steampowered.com/app/400/Portal/">Buy the Game now!</a></div>
+        </div>
+        <div class="element">
+            <h3 class="game-name">Detroit: Become Human</h3>
+            <p>В Detroit: Become Human в ваших руках окажутся судьбы как человечества, так и андроидов. Каждый сделанный вами выбор повлияет на исход игры.</p>
+            <div class="btn"><a href="https://store.steampowered.com/app/1222140/Detroit_Become_Human/">Buy the Game now!</a></div>
+        </div>
+        <div class="element">
+            <h3 class="game-name">One Shot</h3>
+            <p>OneShot – это приключенческая игра-головоломка с видом сверху и уникальными игровыми возможностями. Вам предстоит провести ребенка по загадочному миру с целью возродить давно погибшее солнце. Мир знает о вашем существовании.</p>
+            <div class="btn"><a href="https://store.steampowered.com/app/420530/OneShot/">Buy the Game now!</a></div>
+        </div>
+        <div class="element">
+            <h3 class="game-name">Slay the Princess</h3>
+            <p>Ты здесь, чтобы покончить с Принцессой. Не верь ее лживым речам.</p>
+            <div class="btn"><a href="https://store.steampowered.com/app/1989270/Slay_the_Princess__The_Pristine_Cut/">Buy the Game now!</a></div>
+        </div>
+        <div class="element">
+            <h3 class="game-name">Omori</h3>
+            <p>Explore a strange world full of colorful friends and foes. When the time comes, the path you’ve chosen will determine your fate... and perhaps the fate of others as well.</p>
+            <div class="btn"><a href="https://store.steampowered.com/app/1150690/OMORI/">Buy the Game now!</a></div>
+        </div>
+        <div class="element">
+            <h3 class="game-name">Undertale</h3>
+            <p>UNDERTALE! The RPG game where you don't have to destroy anyone.</p>
+            <div class="btn"><a href="https://store.steampowered.com/app/391540/Undertale/">Buy the Game now!</a></div>
+        </div>
+        <div class="element">
+            <h3 class="game-name">Poppy Playtime Chapter 5</h3>
+            <p>В новой кошмарной главе саги Poppy Playtime вам предстоит еще глубже спуститься в чрево фабрики. Сумеете ли вы скрыться от идущего по вашему следу Хагги Вагги, которого отправила за вами служба безопасности "Плейтайм"? </p>
+            <div class="btn"><a href="https://store.steampowered.com/app/4100940/Poppy_Playtime__Chapter_5/">Buy the Game now!</a></div>
+        </div>
+    </div>
+</main>
+<footer>
+    <p class="foot-left">Site made by Mascha Grigoreva</p>
+    <p class="foot-right">For support use the Email Maschroom_12</p>
+</footer>
+ </body>
